@@ -1,5 +1,4 @@
-# Git Demo With Explanation
-_Task 1_
+# Task 1
 1. git --version - To check the version of the git
 ![image](https://user-images.githubusercontent.com/114793823/194747193-80857cda-fef3-4060-9bfa-5c5e4605cb8a.png)
 
